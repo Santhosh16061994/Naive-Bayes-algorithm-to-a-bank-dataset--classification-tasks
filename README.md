@@ -1,0 +1,1 @@
+# Naive-Bayes-algorithm-to-a-bank-dataset--classification-tasks
